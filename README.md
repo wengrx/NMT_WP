@@ -1,2 +1,2 @@
 # NMT_WP
-natural language processing
+neural machine translation with word predictons
